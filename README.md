@@ -178,4 +178,4 @@ No known bugs at this time.
 
 ## Author
 
-Alexa Orrico - [Github](https://github.com/oussamaafnakkar) 
+Oussama Afnakkar - [Github](https://github.com/oussamaafnakkar) 
